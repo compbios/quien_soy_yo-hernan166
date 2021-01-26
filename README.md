@@ -6,3 +6,7 @@ Empleando las etiquetas del lenguaje **Markdown** escriba un breve resumen sobre
 **Por favor no incluya información personal o sensible como números telefónicos, correos electrónicos, ni direcciones personales; recuerde que este es solo un ejercicio académico y el repositorio creado será público, cualquier persona en el mundo podrá ver el documento creado.**
 
 Incluya su descripción en el archivo **yo.md** disponible en el repositoio.
+###quiensoyyo###
+*Soy una persona tranquila, responsable, mido 185 cm , peso 83 kilos.*        
+
+**Me gusta la actividad fisica y realizo deporte 5 dias a la semana**
