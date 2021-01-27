@@ -11,5 +11,5 @@ Mi nombre es *HERNAN* _MANOTAS_
  PEDIATRA  |  universidad surcolombiana
  NEONATOLOGO  |  universidad del rosario
  
- ###_estoy en la asignatura de informatica computacional para aprender a resolver problemas de las bases de datos_ 
+ ## _estoy en la asignatura de informatica computacional para aprender a resolver problemas de las bases de datos_ 
 
