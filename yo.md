@@ -1,8 +1,4 @@
 
-# Fabián Gil
-
-Soy **colombiano**, 
-
 Mi nombre es *HERNAN* _MANOTAS_ 
 
 **PROFESION**  | **UNIVERSIDAD** 
