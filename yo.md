@@ -5,11 +5,11 @@ Soy **colombiano**,
 
 Mi nombre es *HERNAN* _MANOTAS_ 
 
-##PROFESION  / UNIVERSIDAD## 
+##PROFESION##  / ##UNIVERSIDAD## 
 - - - - - - -    - - - - - - - - - - - - -
-###1. MEDICO  / universidad de cartagena### 
+###1. MEDICO###  / ###universidad de cartagena### 
 - - - - - - -   / - - - - - - - - - - - - - 
-###2. PEDIATRA  / Uuniversidad surcolombiana###
+###2. PEDIATRA###  / ###universidad surcolombiana###
 - - - - - -  - / - - - - - - - - - - - - - -
-###3. NEONATOLOGO / universidad del rosario###
+###3. NEONATOLOGO### / ###universidad del rosario###
 
